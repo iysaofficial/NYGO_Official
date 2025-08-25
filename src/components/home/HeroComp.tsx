@@ -23,7 +23,7 @@ const HeroComp = () =>{
                     </div>
                     <br />
                     <br />
-                    <Link href="#" className="btn">Registrasi di Tutup</Link>
+                    <Link href="#" className="btn">Segera Hadir 2026</Link>
             </div>
         </section>
         </>

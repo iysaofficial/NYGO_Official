@@ -25,7 +25,7 @@ const FooterComp = () => {
                     </ul>
                     <ul className="box">
                         <li className="link_name">Link Informasi</li>
-                        <li><Link href="#contact">Kontak</Link></li>
+                        <li><Link href="/#contact-section">Kontak</Link></li>
                         <li><Link href="https://iysa.or.id" target="_blank">Website Utama IYSA</Link></li>
                         <li><Link href="https://iysaolympiad.or.id" target="_blank">Website Utama IYSA Olympiad</Link></li>
                     </ul>

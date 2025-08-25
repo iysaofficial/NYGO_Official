@@ -28,7 +28,7 @@ const ContactComp = () =>{
                     </div>
                     <ul className="sci">
                         <li><Link href="https://www.facebook.com/profile.php?id=100063979907207" target="_blank"><img src="/assets/images/icon/1.png" alt="" /></Link></li>
-                        <li><Link href="https://www.instagram.com/iyg.olympiad?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="/assets/images/icon/2.png" alt="" /></Link></li>
+                        <li><Link href="https://www.instagram.com/nygo.official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="/assets/images/icon/2.png" alt="" /></Link></li>
                         <li><Link href="https://www.youtube.com/@IYSAOfficial" target="_blank"><img src="/assets/images/icon/3.png" alt="" /></Link></li>
                         <li><Link href="https://www.tiktok.com/@iysa.official" target="_blank"><img src="/assets/images/icon/4.png" alt="" /></Link></li>
                         <li><Link href="https://www.linkedin.com/company/indonesian-young-scientist-association-iysa" target="_blank"><img src="/assets/images/icon/5.png" alt="" /></Link></li>
